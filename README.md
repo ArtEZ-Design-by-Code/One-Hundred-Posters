@@ -26,6 +26,12 @@ This assignment is an introduction to producing form with code. Each week, we wi
 
 - Casey Reas – Process Compendium- Bloomberg – What is Code? - LUST, Casey Reas, Chandler McWilliams – Form and Code in Design, Art and Architecture- Harmut Bohnacker, Benedikt Groß, Julia Laub – Generative Design: Visualize, Program and Create with Processing- Daniel Shiffman – Learning Processing: A Beginner’s Guide to Programming Images, Animation and Interaction- Daniel Shiffman – The Nature of Code
 
-## Notes
+## What we've discussed in class
 
-Download Processing from [the Processing website](http://processing.org).
+- [Download Processing](http://processing.org)
+- [Continuum Fashion - DDress](http://www.continuumfashion.com/Ddress/)
+- [Random International - Rain Room](https://vimeo.com/50987695)
+- [Processing reference](https://processing.org/reference/)
+- [Processing exhibition](https://processing.org/exhibition/)
+- [United Visual Artists - Blueprint](http://uva.co.uk/works/blueprint)
+- [Form + Code](http://formandcode.com)
