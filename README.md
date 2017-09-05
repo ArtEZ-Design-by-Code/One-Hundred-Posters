@@ -28,6 +28,8 @@ This assignment is an introduction to producing form with code. Each week, we wi
 
 ## What we've discussed in class
 
+### Week 1
+
 - [Download Processing](http://processing.org)
 - [Continuum Fashion - DDress](http://www.continuumfashion.com/Ddress/)
 - [Random International - Rain Room](https://vimeo.com/50987695)
@@ -35,3 +37,7 @@ This assignment is an introduction to producing form with code. Each week, we wi
 - [Processing exhibition](https://processing.org/exhibition/)
 - [United Visual Artists - Blueprint](http://uva.co.uk/works/blueprint)
 - [Form + Code](http://formandcode.com)
+
+### Week 2
+
+- [Hansje van Halem](http://www.hansje.net)
