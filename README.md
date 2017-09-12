@@ -41,3 +41,9 @@ This assignment is an introduction to producing form with code. Each week, we wi
 ### Week 2
 
 - [Hansje van Halem](http://www.hansje.net)
+
+### Week 3
+
+- [Chiharu Shiota](http://www.hetnoordbrabantsmuseum.nl/bezoek/tentoonstellingen-activiteiten/tentoonstellingen/chiharu-shiota/)
+- [Field - Communion](https://www.field.io/project/communion/)
+- [Radians and Degrees](http://apcsteacher.com/reference/vb/graphing/radians_vs_degrees.jpg)
