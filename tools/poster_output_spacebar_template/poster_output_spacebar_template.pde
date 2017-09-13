@@ -12,7 +12,7 @@ void posterDraw() {
 // Everything from here on is the template to save your output. It wil save when you press the spacebar. It will also exit the sketch!
 ////
 
-import processing.svg.*;
+import processing.pdf.*;
 
 String filename = "poster-" + year() + "." + month() + "." + day() + "-" + hour() + "." + minute() + "." + second();
 
@@ -22,8 +22,8 @@ void setup() {
 
   // Generate a file name composed of the current date and time
 
-  // Begin the recording of an SVG file
-  beginRecord(SVG, sketchPath("output/svg/" + filename + ".svg"));
+  // Begin the recording of an PDF file
+  beginRecord(PDF, sketchPath("output/pdf/" + filename + ".pdf"));
 
   // Run the posterCode() function, which contains your drawing
   posterSetup();
