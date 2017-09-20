@@ -47,3 +47,11 @@ This assignment is an introduction to producing form with code. Each week, we wi
 - [Chiharu Shiota](http://www.hetnoordbrabantsmuseum.nl/bezoek/tentoonstellingen-activiteiten/tentoonstellingen/chiharu-shiota/)
 - [Field - Communion](https://www.field.io/project/communion/)
 - [Radians and Degrees](http://apcsteacher.com/reference/vb/graphing/radians_vs_degrees.jpg)
+
+### Week 4
+
+- [Pfadfinderei - Moderat](http://pfadfinderei.com/project/moderat3live)
+- [Another Space (United Visual Artists) - Massive Attack, James Blake](http://www.another-space.co.uk/massive-attack-2016)
+- [Ryoji Ikeda](http://www.ryojiikeda.com)
+- [OpenProcessing](https://www.openprocessing.org)
+- [Ben Fry - Distellamap](http://benfry.com/distellamap/)
